@@ -1,0 +1,43 @@
+html {
+  margin: o;
+  background-color: #171214;
+}
+
+body {
+  background-color: #171214;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@200&display=swap');
+
+
+.carousel-item {
+  height: 100vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.content {
+  background-color: #171214;
+  margin-top: 100px;
+  margin-left: 30px;
+  margin-right: 30px;
+  color: white;
+  
+
+}
+
+h2 {
+  align-items: center;
+  text-align: center;
+  margin-bottom: 30px;
+  font-family: 'Patrick Hand', cursive;
+}
+
+.content p {
+  font-family: 'Catamaran', sans-serif;
+}
